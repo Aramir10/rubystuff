@@ -13,3 +13,14 @@ puts "How Many Minuts in a decade"
    puts (60) * (24) * (365) * (10)
    puts "Age in sec"
     puts ((60) * (24) * 60)* (365) * (29)
+
+puts "      /|"
+puts "     / |"
+puts "    /  |"
+puts "   /   |"
+puts "  /    |"
+puts " /_____|"
+
+variable  = "Victor"
+
+puts ("  I believe that smart, dedicated, students can rise above their circumstances " + variable + " is one of those ")
