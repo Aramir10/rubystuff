@@ -24,3 +24,4 @@ puts " /_____|"
 variable  = "Victor"
 
 puts ("  I believe that smart, dedicated, students can rise above their circumstances " + variable + " is one of those ")
+ puts ("This time is going to be serious " + variable)
