@@ -22,6 +22,9 @@ puts "  /    |"
 puts " /_____|"
 
 variable  = "Victor"
+puts "the name has that number of letters "
+puts variable.length
+puts variable.include? "Vic"
 
 puts ("  I believe that smart, dedicated, students can rise above their circumstances " + variable + " is one of those ")
  puts ("This time is going to be serious " + variable)
